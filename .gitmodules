@@ -1,0 +1,3 @@
+[submodule "MemeServoAPI"]
+	path = MemeServoAPI
+	url = https://github.com/memerobotics-CN/MemeServoAPI.git
